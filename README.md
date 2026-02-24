@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mariafer26/mariafer26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffd1e8&height=190&section=header&text=Mariafer&fontColor=ffffff&fontSize=52&animation=twinkling" />
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="cute kitten gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌸 hola, soy **Mariafer** 🌸
+Construyo cosas bonitas, ��tiles y con vibra pastel.
+
+</div>
+
+---
+
+## 🎀 sobre mí
+- 🩷 me gusta: *front-end cute, apps con Flask, aprender y mejorar mis proyectos*
+- 🌷 ahora mismo: *explorando ideas y construyendo proyectos*
+- 🍓 meta: *subir más proyectos y dejar mi GitHub bien rosita*
+
+---
+
+## 💗 tech stack
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-ffd1e8?style=for-the-badge&logo=python&logoColor=000000" />
+<img src="https://img.shields.io/badge/Flask-ffd1e8?style=for-the-badge&logo=flask&logoColor=000000" />
+<img src="https://img.shields.io/badge/C%2B%2B-ffd1e8?style=for-the-badge&logo=c%2B%2B&logoColor=000000" />
+<img src="https://img.shields.io/badge/HTML5-ffd1e8?style=for-the-badge&logo=html5&logoColor=000000" />
+<img src="https://img.shields.io/badge/CSS3-ffd1e8?style=for-the-badge&logo=css3&logoColor=000000" />
+
+</div>
+
+---
+
+## 🌷 stats (pastel edition)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mariafer26&show_icons=true&title_color=ff7eb6&icon_color=ff7eb6&text_color=ffffff&bg_color=0d1117&border_color=ffd1e8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariafer26&layout=compact&title_color=ff7eb6&text_color=ffffff&bg_color=0d1117&border_color=ffd1e8" />
+
+</div>
+
+---
+
+## 🧁 proyectos bonitos (pon aquí tus links)
+- 🌸 **Proyecto 1** — (qué hace en 1 línea) — *link*
+- 🍰 **Proyecto 2** — (qué hace en 1 línea) — *link*
+- 🍓 **Proyecto 3** — (qué hace en 1 línea) — *link*
+
+---
+
+## 💌 contacto
+<div align="center">
+
+<a href="mailto:mariaferalvarez0426@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ffd1e8?style=for-the-badge&logo=gmail&logoColor=000000" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffd1e8&height=120&section=footer" />
+
+</div>
