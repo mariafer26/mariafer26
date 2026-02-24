@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="cute kitten gif" />
 
 ### 🌸 hola, soy **Mariafer** 🌸
-Construyo cosas bonitas, ��tiles y con vibra pastel.
+Construyo cosas bonitas, tiles y con vibra pastel.
 
 </div>
 
@@ -14,7 +14,7 @@ Construyo cosas bonitas, ��tiles y con vibra pastel.
 ## 🎀 sobre mí
 - 🩷 me gusta: *front-end cute, apps con Flask, aprender y mejorar mis proyectos*
 - 🌷 ahora mismo: *explorando ideas y construyendo proyectos*
-- 🍓 meta: *subir más proyectos y dejar mi GitHub bien rosita*
+- 🍓 meta: *subir más proyectos*
 
 ---
 
