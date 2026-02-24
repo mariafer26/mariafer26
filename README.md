@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="cute kitten gif" />
 
 ### 🌸 hola, soy **Mariafer** 🌸
-Construyo cosas bonitas, tiles y con vibra pastel.
+Construyo cosas bonitas, creativas y con vibra pastel.
 
 </div>
 
@@ -31,13 +31,7 @@ Construyo cosas bonitas, tiles y con vibra pastel.
 
 ---
 
-## 🌷 stats (pastel edition)
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mariafer26&show_icons=true&title_color=ff7eb6&icon_color=ff7eb6&text_color=ffffff&bg_color=0d1117&border_color=ffd1e8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariafer26&layout=compact&title_color=ff7eb6&text_color=ffffff&bg_color=0d1117&border_color=ffd1e8" />
-
-</div>
 
 ---
 
