@@ -1,130 +1,86 @@
-<div align="center">
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B945F0&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Maria+Fernanda+👋;Full+Stack+Developer;Systems+Engineering+Student" alt="Typing SVG" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=hola%2C+soy+Mariafer+✦&fontColor=ffffff&fontSize=44&animation=twinkling&fontAlignY=38&desc=code+bonito+%7C+ideas+raras+%7C+vibra+pastel&descSize=16&descAlignY=58&descColor=ffffffcc" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF9CC2&center=true&vCenter=true&width=500&lines=front-end+con+corazón+%F0%9F%A9%B7;apps+que+se+ven+lindas+y+funcionan+%F0%9F%8C%B8;siempre+aprendiendo%2C+siempre+construyendo+%E2%9C%A8" alt="Typing SVG" />
-
-<br/>
-
-```
-🌸  Mariafer  ·  Medellín, Colombia
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    front-end dev  ·  Flask enjoyer  ·  C++ survivor
-    diseñando pantallas bonitas desde el 2023
-```
-
-</div>
+<!-- GIF - Reemplaza el link con tu GIF favorito -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk2aTZ5MzU1OXN4cHg5Nm9tZmthZzFqdWRzNzI2azMwOGd1bTB0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yoaRTrM8cNSWzQZpWR/giphy.gif" width="380" alt="coding gif"/>
+</p>
 
 ---
 
-<div align="center">
+### 🛠️ Languages & Tools
 
-### 💭 mi filosofía de código
+**🎨 Frontend**
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+</p>
 
-*"si no se ve bonito, no está terminado"*
+**⚙️ Backend**
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+</p>
 
-</div>
-
----
-
-## 🌷 sobre mí, pero honesto
-
-| | |
-|---|---|
-| 🩷 **me enamora** | CSS que me deja en paz y Flask cuando coopera |
-| 🌙 **me pasa** | abrir 47 tabs "solo para entender una cosa" |
-| 🎯 **mi meta 2025** | subir más proyectos antes de que queden en carpetas perdidas |
-| 🌍 **ubicación** | Medellín — donde el clima hace lo que quiere |
-| ☕ **combustible** | café o tinto, lo que haya primero |
-| 🔮 **superpoder** | hacer que algo feo se vea bonito |
-
----
-
-## 💗 stack con el que construyo cosas
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-FFD1E8?style=for-the-badge&logo=python&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/Flask-FFD1E8?style=for-the-badge&logo=flask&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/C%2B%2B-FFD1E8?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/HTML5-FFD1E8?style=for-the-badge&logo=html5&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/CSS3-FFD1E8?style=for-the-badge&logo=css3&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/JavaScript-FFD1E8?style=for-the-badge&logo=javascript&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/Git-FFD1E8?style=for-the-badge&logo=git&logoColor=4B0082" />
-
-</div>
+**🔧 Tools & DevOps**
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+</p>
 
 ---
 
-## 🧁 proyectos en los que puse el corazón
+### 📊 GitHub Stats
 
-<div align="center">
-
-| 🌸 proyecto | qué hace | link |
-|:---:|---|:---:|
-| **Proyecto 1** | (qué hace en 1 línea) | [ver →](link) |
-| **Proyecto 2** | (qué hace en 1 línea) | [ver →](link) |
-| **Proyecto 3** | (qué hace en 1 línea) | [ver →](link) |
-
-> *tip: reemplaza las filas con tus proyectos reales ✨*
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariafer26&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Maria Fernanda's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariafer26&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariafer26&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📊 mis números en github
+### 🚀 Featured Projects
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f6&title_color=cc6699&icon_color=ff9cc2&text_color=7a4060" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f6&title_color=cc6699&text_color=7a4060" />
-
-</div>
-
----
-
-## 🎀 actualmente...
-
-```python
-mariafer = {
-    "explorando":  ["nuevas ideas", "proyectos chéveres"],
-    "aprendiendo": ["algo nuevo cada semana (o intentándolo)"],
-    "construyendo": ["cosas bonitas con código"],
-    "escuchando":  ["lo que sea que suene bien para programar"],
-    "tomando":     ["tinto ☕ siempre"],
-}
-```
+<p align="center">
+  <a href="https://github.com/mariafer26/Glamstore">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariafer26&repo=Glamstore&theme=radical&hide_border=true&bg_color=0d1117" alt="GlamStore" />
+  </a>
+  <a href="https://github.com/mariafer26/GroupsApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariafer26&repo=GroupsApp&theme=radical&hide_border=true&bg_color=0d1117" alt="GroupsApp" />
+  </a>
+</p>
 
 ---
 
-## 💌 hablemos
+### 🌐 Connect with me
 
-<div align="center">
-
-<a href="mailto:mariaferalvarez0426@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FFD1E8?style=for-the-badge&logo=gmail&logoColor=4B0082" />
-</a>
-&nbsp;
-<a href="https://github.com/TU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-FFD1E8?style=for-the-badge&logo=github&logoColor=4B0082" />
-</a>
-
-<br/><br/>
-
-*¿tienes un proyecto, una idea rara o simplemente quieres hablar de CSS? escríbeme 🌷*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=ff9cc2&label=visitas+al+perfil" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&animation=twinkling" />
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/maria-fernanda-alvarez-marin-b87b11303/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/mariafer26_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/mariafer26" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mariaferalvarez0426@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
