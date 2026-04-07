@@ -11,6 +11,13 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://portafolio-rho-green-49.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%20View%20My%20Portfolio-D3D3D3?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
+
 ---
 
 ### 👩‍💻 About Me
@@ -24,6 +31,7 @@
         <li>💻 Passionate about Full Stack Development</li>
         <li>🌱 Currently learning <b>Spring Boot</b>, <b>Docker</b> & <b>AWS</b></li>
         <li>🚀 I love building web applications</li>
+        <li>🌐 <b>Portfolio:</b> <a href="https://portafolio-rho-green-49.vercel.app/" target="_blank">Click here</a></li>
         <li>📫 Reach me at <b>mariaferalvarez0426@gmail.com</b></li>
       </ul>
     </td>
@@ -32,6 +40,16 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://portafolio-rho-green-49.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
