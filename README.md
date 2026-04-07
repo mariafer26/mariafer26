@@ -1,29 +1,37 @@
-<!-- Header Banner -->
+<!-- Hero Section -->
+<h1 align="center">Hi there! I'm Maria Fernanda 👋</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Maria%20Fernanda%20👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20Systems%20Engineering%20Student&descAlignY=52&descSize=18" width="100%" alt="Header"/>
+  <b>Systems Engineering Student · Colombia 🇨🇴</b>
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B945F0&center=true&vCenter=true&width=500&lines=Hi+there!+I%27m+Maria+Fernanda+%F0%9F%91%8B;Full+Stack+Developer;Systems+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B945F0&center=true&vCenter=true&width=435&lines=I'm+a+Full+Stack+Developer+%F0%9F%92%BB;I+love+building+web+apps+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
-</p>
-
-<!-- GIF -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN3MncxMzR5YW9qeGhjNWhxM3N6YjMwNm5tYXl6dm54YXd5cTM3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yoaRTrM8cNSWzQZpWR/giphy.gif" width="380" alt="coding gif"/>
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 Systems Engineering Student
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning **Spring Boot**, **Docker** & **AWS**
-- 🚀 I love building web applications from scratch
-- 📫 Reach me at **mariaferalvarez0426@gmail.com**
+<table>
+  <tr>
+    <td width="55%">
+      <br/>
+      <ul>
+        <li>🎓 Systems Engineering Student</li>
+        <li>💻 Passionate about Full Stack Development</li>
+        <li>🌱 Currently learning <b>Spring Boot</b>, <b>Docker</b> & <b>AWS</b></li>
+        <li>🚀 I love building web applications</li>
+        <li>📫 Reach me at <b>mariaferalvarez0426@gmail.com</b></li>
+      </ul>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN3MncxMzR5YW9qeGhjNWhxM3N6YjMwNm5tYXl6dm54YXd5cTM3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yoaRTrM8cNSWzQZpWR/giphy.gif" width="300" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -59,14 +67,9 @@
 
 ### 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariafer26&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="Maria Fernanda's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariafer26&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mariafer26&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mariafer26&theme=radical&hide_border=true&background=0d1117&cache_seconds=86400" />
 </p>
 
 ---
@@ -120,10 +123,6 @@
   </a>
 </p>
 
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mariafer26/mariafer26/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ---
 
