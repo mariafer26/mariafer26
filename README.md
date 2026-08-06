@@ -7,7 +7,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B945F0&center=true&vCenter=true&width=435&lines=I'm+a+Full+Stack+Developer+%F0%9F%92%BB;I+love+building+web+apps+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B945F0&center=true&vCenter=true&width=435&lines=I'm+a+Full+Stack+Developer+%F0%9F%9A%80;I'm+a+Systems+Engineering+Student;I+love+building+useful+web+apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
       </ul>
     </td>
     <td width="45%" align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN3MncxMzR5YW9qeGhjNWhxM3N6YjMwNm5tYXl6dm54YXd5cTM3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yoaRTrM8cNSWzQZpWR/giphy.gif" width="300" alt="coding gif"/>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN3MncxMzR5YW9qeGhjNWhxM3N6YjMwNm5tYXl6dm54YXd5cTM3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yoaRTrM8cNSWzQZpWR/giphy.gif" width="300" alt="coding gif" />
     </td>
   </tr>
 </table>
@@ -116,6 +116,22 @@
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariafer26/customer-churn-prediction">
+        <b>📈 Customer Churn Prediction</b>
+      </a>
+      <br/>
+      <sub>Proyecto de Machine Learning para predecir la fuga de clientes en telecomunicaciones, con análisis exploratorio, comparación de modelos y un agente que genera recomendaciones de retención personalizadas.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat"/>
+    </td>
+    <td align="center" width="50%"></td>
   </tr>
 </table>
 
